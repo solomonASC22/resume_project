@@ -1,0 +1,26 @@
+
+#topBar{
+    font-size: 28px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: gold;
+    padding: 5px;
+}
+.post{
+    width: 40px;
+    height: 40px;
+}
+/* This section is for my profile picture, contact info, and linkedin account */
+.linked{
+    font-style: normal;
+    border: 5px solid gold;
+}
+
+.intro{
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+    border: 5px solid gold;
+}
+/* This section is for my skills */
